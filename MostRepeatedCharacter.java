@@ -1,7 +1,7 @@
 public class App {
 
     public static void main(String[] args) throws Exception {
-        String str = "santhosh";
+        String str = "Java";
         char[] charArr = str.toCharArray();
         int count = 1;
         char ch = charArr[0];
