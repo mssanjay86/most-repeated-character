@@ -1,7 +1,7 @@
 public class App {
 
     public static void main(String[] args) throws Exception {
-        String str = "Java";
+        String str = "JavaScript";
         char[] charArr = str.toCharArray();
         int count = 1;
         char ch = charArr[0];
